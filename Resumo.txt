@@ -1,0 +1,1 @@
+FeirApp: Sistema web para controle financeiro e controle de estoque. Financeiro, cálculos automatizados. Sumário de vendas (a vista e a prazo), por produto e data. Sumário de despesas (custos fixos e variáveis). Estoque. Relatórios
